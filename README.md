@@ -62,8 +62,8 @@ Escolha uma das opções:
 7 - Marcar Curso como concluído  
 0 - Sair  
 
-Adicionar Curso: Permite inserir o nome e a descrição de um curso.  
-Listar Cursos: Exibe todos os cursos cadastrados, separados por disponíveis e concluídos.  
+- Adicionar Curso: Permite inserir o nome e a descrição de um curso.  
+- Listar Cursos: Exibe todos os cursos cadastrados, separados por disponíveis e concluídos.  
 
 ### Exemplo de saída  
 

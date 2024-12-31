@@ -42,8 +42,10 @@ A classe principal é responsável por gerenciar a interação com o usuário at
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 2. Compile os arquivos Java:
+   ```bash
    javac src/main/**/*.java
 
 4. Execute o programa:
+   ```bash
    java src.main.Main
 

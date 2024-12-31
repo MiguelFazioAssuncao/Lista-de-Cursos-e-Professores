@@ -52,6 +52,7 @@ A classe principal é responsável por gerenciar a interação com o usuário at
 ### Exemplo de entrada
 
 Escolha uma das opções:
+```bash
 1 - Adicionar Curso
 2 - Adicionar Professor
 3 - Remover Curso
@@ -66,6 +67,7 @@ Listar Cursos: Exibe todos os cursos cadastrados, separados por disponíveis e c
 
 ### Exemplo de saída
 
+```bash
 Lista de Cursos - Disponíveis:
 1 - Curso: Java Básico, Descrição: Introdução à linguagem Java.
 Lista de Cursos - Concluídos:

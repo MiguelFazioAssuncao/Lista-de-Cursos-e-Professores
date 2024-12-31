@@ -52,17 +52,16 @@ A classe principal é responsável por gerenciar a interação com o usuário at
 ### Exemplo de entrada
 
 Escolha uma das opções:
-```bash
-1 - Adicionar Curso
-2 - Adicionar Professor
-3 - Remover Curso
-4 - Remover Professor
-5 - Listar Cursos
-6 - Listar Professores
-7 - Marcar Curso como concluído
+
+1 - Adicionar Curso  
+2 - Adicionar Professor  
+3 - Remover Curso  
+4 - Remover Professor  
+5 - Listar Cursos  
+6 - Listar Professores  
+7 - Marcar Curso como concluído  
 0 - Sair
 
-- 
 Adicionar Curso: Permite inserir o nome e a descrição de um curso.
 Listar Cursos: Exibe todos os cursos cadastrados, separados por disponíveis e concluídos.
 

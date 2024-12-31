@@ -49,3 +49,24 @@ A classe principal é responsável por gerenciar a interação com o usuário at
    ```bash
    java src.main.Main
 
+### Exemplo de entrada
+
+Escolha uma das opções:
+1 - Adicionar Curso
+2 - Adicionar Professor
+3 - Remover Curso
+4 - Remover Professor
+5 - Listar Cursos
+6 - Listar Professores
+7 - Marcar Curso como concluído
+0 - Sair
+
+Adicionar Curso: Permite inserir o nome e a descrição de um curso.
+Listar Cursos: Exibe todos os cursos cadastrados, separados por disponíveis e concluídos.
+
+### Exemplo de saída
+
+Lista de Cursos - Disponíveis:
+1 - Curso: Java Básico, Descrição: Introdução à linguagem Java.
+Lista de Cursos - Concluídos:
+Nenhum curso encontrado.

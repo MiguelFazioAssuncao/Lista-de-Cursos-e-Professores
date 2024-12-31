@@ -40,3 +40,10 @@ A classe principal é responsável por gerenciar a interação com o usuário at
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+2. Compile os arquivos Java:
+   javac src/main/**/*.java
+
+4. Execute o programa:
+   java src.main.Main
+
